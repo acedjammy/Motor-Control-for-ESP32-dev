@@ -1,1 +1,1 @@
-# Motor-Control
+# Motor Control
